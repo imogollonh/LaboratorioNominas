@@ -1,0 +1,5 @@
+C:\Users\ivan5\Desktop\Versiones\Mantenimientos\Laboratorio_Nomina\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\ivan5\Desktop\Versiones\Mantenimientos\Laboratorio_Nomina\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\ivan5\Desktop\Versiones\Mantenimientos\Laboratorio_Nomina\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\Versiones\Mantenimientos\Laboratorio_Nomina\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\ivan5\Desktop\Versiones\Mantenimientos\Laboratorio_Nomina\Capa_Datos\obj\Debug\Capa_Datos.pdb
